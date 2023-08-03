@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiTesterApplication<api-tester>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.apitest.apitester.ApiTesterApplication",
+            "projectName": "api-tester",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
